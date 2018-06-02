@@ -2472,6 +2472,50 @@ body {
 .cid-qTo3AOZCZA .social-list a:focus {
   text-decoration: none;
 }
+.cid-qTNvzJF5Bs {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/img-3108-2000x1500.jpg");
+}
+.cid-qTNvzJF5Bs h4 {
+  font-weight: 500;
+  color: #ffffff;
+}
+.cid-qTNvzJF5Bs p {
+  color: #ffffff;
+}
+.cid-qTNvzJF5Bs .card {
+  margin-bottom: 2rem;
+}
+.cid-qTNvzJF5Bs .card-img {
+  border-radius: 0;
+  padding: 2rem 2rem 0 2rem;
+  background-color: #149dcc;
+}
+.cid-qTNvzJF5Bs .card-img span {
+  font-size: 100px;
+  color: #ffffff;
+}
+.cid-qTNvzJF5Bs .card-box {
+  padding-bottom: 2rem;
+  background-color: #149dcc;
+  background: linear-gradient(#149dcc, transparent);
+}
+.cid-qTNvzJF5Bs .card-box .card-title {
+  margin: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qTNvzJF5Bs .card-box .mbr-text {
+  margin-bottom: 0;
+  padding: 2rem 2rem 0 2rem;
+}
+.cid-qTNvzJF5Bs .card-box .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qTNvzJF5Bs .card-box .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
 .cid-qTnBKeLNRb .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -2904,6 +2948,10 @@ body {
 }
 .cid-qTo2WBoSTm .mbr-text {
   color: #767676;
+}
+.cid-qTo2WBoSTm .mbr-text P {
+  text-align: left;
+  color: #152d81;
 }
 .cid-qTo3eFZxmI {
   padding-top: 75px;
